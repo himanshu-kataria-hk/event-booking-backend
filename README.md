@@ -194,13 +194,3 @@ Please ensure your code adheres to the project's coding standards (e.g., PEP 8) 
 
 *This README is a living document. Please update it as the project evolves.*
 ```
-
-**Key things to customize in this README:**
-*   **`<your-repository-url>`**: Replace this with the actual URL of your Git repository.
-*   **Database Choice**: In the "Tech Stack" section, specify which database you are using (e.g., PostgreSQL, MySQL, or if you're sticking with SQLite3 for development).
-*   **Python Version**: In "Prerequisites", specify the Python version your project is targeting.
-*   **`requirements.txt`**: Make sure this file is created and maintained in your project root with all dependencies.
-*   **API Endpoints**: As you build out more apps and their APIs, update the "API Endpoints" section to reflect the actual routes.
-*   **Further Development**: Tailor this section to your specific project roadmap.
-
-This should give you a solid foundation for your project's documentation!
